@@ -98,24 +98,13 @@ This is an example of how to list things you need to use the software and how to
   ```sh
   npm install npm@latest -g
   ```
-
-### Installation
-
-2. Clone the repo
-   ```sh
-   git clone https://github.com/eenzamese/bin.git
-   ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Only for personal needs
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+Clone the repo
+   ```sh
+   git clone https://github.com/eenzamese/bin.git
+   ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -169,17 +158,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
 
 Project Link: [https://github.com/eenzamese/bin](https://github.com/eenzamese/bin)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
