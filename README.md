@@ -1,23 +1,3 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
-<a id="readme-top"></a>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -25,12 +5,9 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
-
-<!-- PROJECT LOGO -->
 <br />
 <div align="center">
-<h3 align="center">project_title</h3>
+<h3 align="center">Additional bin files</h3>
 
   <p align="center">
     Just needed utilities from https://www.sqlite.org/ (sqlite3 & sqlite3.exe) and https://learn.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite (PsExec64.exe) readme template used here is https://github.com/eenzamese/bin
@@ -88,17 +65,8 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+    Just needed utilities from https://www.sqlite.org/ (sqlite3 & sqlite3.exe) and https://learn.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite (PsExec64.exe) readme template used here is https://github.com/eenzamese/bin
 
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-<!-- USAGE EXAMPLES -->
 ## Usage
 
 Clone the repo
