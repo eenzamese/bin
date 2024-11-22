@@ -1,8 +1,4 @@
 <br />
-<div align="center">
-<h3 align="center">Additional bin files</h3>
-</div>
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
