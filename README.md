@@ -1,10 +1,3 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 <br />
 <div align="center">
 <h3 align="center">Additional bin files</h3>
@@ -22,8 +15,6 @@
     <a href="https://github.com/eenzamese/bin/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -50,8 +41,6 @@
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
-
-
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -87,8 +76,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- CONTACT -->
 ## Contact
 
@@ -98,19 +85,5 @@ Project Link: [https://github.com/eenzamese/bin](https://github.com/eenzamese/bi
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/eenzamese/bin.svg?style=for-the-badge
-[contributors-url]: https://github.com/eenzamese/bin/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/eenzamese/bin.svg?style=for-the-badge
-[forks-url]: https://github.com/eenzamese/bin/network/members
-[stars-shield]: https://img.shields.io/github/stars/eenzamese/bin.svg?style=for-the-badge
-[stars-url]: https://github.com/eenzamese/bin/stargazers
-[issues-shield]: https://img.shields.io/github/issues/eenzamese/bin.svg?style=for-the-badge
-[issues-url]: https://github.com/eenzamese/bin/issues
-[license-shield]: https://img.shields.io/github/license/eenzamese/bin.svg?style=for-the-badge
-[license-url]: https://github.com/eenzamese/bin/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
