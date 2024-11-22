@@ -59,9 +59,6 @@
     Just needed utilities from https://www.sqlite.org/ (sqlite3 & sqlite3.exe) and https://learn.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite (PsExec64.exe) readme template used here is https://github.com/eenzamese/bin
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
@@ -75,17 +72,6 @@ Clone the repo
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/eenzamese/bin/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -102,14 +88,6 @@ Don't forget to give the project a star! Thanks again!
 5. Open a Pull Request
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Top contributors:
-
-<a href="https://github.com/eenzamese/bin/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=eenzamese/bin" alt="contrib.rocks image" />
-</a>
-
-
 
 <!-- LICENSE -->
 ## License
