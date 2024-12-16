@@ -1,0 +1,10 @@
+name: "Make installer action"
+on:
+  push:
+    branches: ["main"]
+
+jobs:
+  build:
+    permissions: write-all
+    uses:
+      eenzamese/pyinst_env/.github/workflows/main.yml@main
