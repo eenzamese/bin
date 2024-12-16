@@ -1,0 +1,3 @@
+[submodule "pyinst_env"]
+	path = pyinst_env
+	url = https://github.com/eenzamese/pyinst_env
